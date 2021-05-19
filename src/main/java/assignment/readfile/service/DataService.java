@@ -2,7 +2,7 @@ package assignment.readfile.service;
 
 import java.util.List;
 
-import assignment.redfile.dto.DataResponseDto;
+import assignment.readfile.dto.DataResponseDto;
 
 public interface DataService {
 

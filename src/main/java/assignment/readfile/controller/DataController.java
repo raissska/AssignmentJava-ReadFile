@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import assignment.readfile.dto.DataResponseDto;
 import assignment.readfile.service.DataService;
-import assignment.redfile.dto.DataResponseDto;
 
 
 @RestController

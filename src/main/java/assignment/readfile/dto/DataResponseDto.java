@@ -1,4 +1,4 @@
-package assignment.redfile.dto;
+package assignment.readfile.dto;
 
 import java.time.LocalDate;
 import java.util.Date;
